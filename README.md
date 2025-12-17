@@ -1,2 +1,4 @@
 # azaenv
-cli to setup my workstation environment
+
+CLI to setup my workstation environment
+
